@@ -10,7 +10,7 @@ This is a simple python3 terminal program to send a suricata log file generated 
 ### surifast2csv may only be used to convert Suricata logs to csv, unless otherwise configured in the outfile write method. See code for more.
 ### Save mail2ad to your server and run as follows:
 - Configure path to file to be attached.
-- sudo python3 mail2ad.py\
+- sudo python3 mail2ad.py
 - Once executed, will you be presented with the following requirements:
 ##### Subject:
 ##### Body:
