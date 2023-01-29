@@ -21,3 +21,6 @@ Once executed, will you be presented with the following requirements:
 ##### Smtp Server:
 
 ### Once confirmed, an email will be sent to the specified email address provided that the password, port and server are correct!
+
+# Alternatively:
+The program may be adpated for use as a script and scheduled as a cron job.
