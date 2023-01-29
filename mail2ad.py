@@ -26,7 +26,7 @@ def main():
     # Add body to email
     message.attach(MIMEText(body, "plain"))
 
-    with open('resout.csv', 'w') as f:
+    with open('OUTPUT FILENAME', 'w') as f:
         subprocess.run(['tail', 'PATH TO LOGFILE'], stdout=f)
     filename = "OUTPUT FILENAME"  # In same directory as script
 
