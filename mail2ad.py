@@ -11,7 +11,7 @@ def main():
     subject = input(f"Please enter a subject: ")
     body = input(f"Please enter a short body")
     sender_email = input(f"Please enter the sending email address: ")
-    receiver_email = input(f"Please enter the recipients email address: ")
+    receiver_email = input(f"Please enter the recipient email address: ")
     password = input(f"Please enter a password: ")
     port = input(f"Please enter a port: ")
     smtp_server = input(f"Please enter the smtp server address: ")
