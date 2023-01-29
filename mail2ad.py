@@ -30,7 +30,7 @@ def main():
         subprocess.run(['tail', 'PATH TO LOGFILE'], stdout=f)
     filename = "OUTPUT FILENAME"  # In same directory as script
 
-    # Open PDF file in binary mode
+    # Open file in binary mode
     with open(filename, "rb") as attachment:
         # Add file as application/octet-stream
         # Email client can usually download this automatically as attachment
