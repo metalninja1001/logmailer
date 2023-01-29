@@ -28,7 +28,7 @@ def main():
 
     with open('resout.csv', 'w') as f:
         subprocess.run(['tail', 'PATH TO LOGFILE'], stdout=f)
-    filename = "resout.csv"  # In same directory as script
+    filename = "OUTPUT FILENAME"  # In same directory as script
 
     # Open PDF file in binary mode
     with open(filename, "rb") as attachment:
