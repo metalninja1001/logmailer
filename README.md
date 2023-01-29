@@ -11,7 +11,7 @@ pip install typer
 ### Save mail2ad to your server and run as follows:
 Configure path to file to be attached.\
 sudo python3 mail2ad.py\
-Once executed, will you be presented with the following requirements:\
+Once executed, will you be presented with the following requirements:
 ##### Subject:
 ##### Body:
 ##### Sender email address:
