@@ -26,4 +26,4 @@ This is a simple python3 terminal program to send a suricata log file generated 
 ### Once confirmed, an email will be sent to the specified email address provided that the password, port and server are correct!
 
 # Alternatively:
-- The program may be adpated for use as a script and scheduled as a cron job.
+- The program may be adapted for use as a script and scheduled as a cron job.
