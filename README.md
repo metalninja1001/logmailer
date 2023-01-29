@@ -19,3 +19,5 @@ Once executed, will you be presented with the following requirements:
 ##### Password:
 ##### Port:
 ##### Smtp Server:
+
+### Once confirmed, an email will be sent to the specified email address provided that the password, port and server are correct!
